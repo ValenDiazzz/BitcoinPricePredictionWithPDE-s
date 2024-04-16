@@ -1,3 +1,4 @@
+# Bitcoin Price Prediction using Partial Differential Equations
 The aim of this project is to forecast bitcoin price using a partial differential equation model. Is based on the academic paper "Using networks and partial differential equations
 to forecast bitcoin price movement", by Yufang Wang and  Haiyan Wang.
 
